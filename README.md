@@ -1,3 +1,6 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shotaro-Akehi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shotaro-Akehi&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 技術スタック
 ### 使用経験のある言語
 ・Python (熟練)  
